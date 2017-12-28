@@ -1,4 +1,6 @@
-# vHackAPI-Python
+# vHackAPI-Python please download latest version here 
+[![latest download](https://github.com/OlympicCode/vHackXTBot-Python)]  
+  
 vHackAPI written in Python 2.7.
 
 [![Discord](https://img.shields.io/badge/Chat-%20on%20Discord-738bd7.svg?style=flat-square)](https://discord.gg/PHgESQn)
